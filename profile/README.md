@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 [![ilxp's Github Stats](https://github-readme-stats.vercel.app/api?username=ilxp&count_private=true&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
-## ✨ 致谢 | THANKS To ✨
+## ✨ 致谢开源 | THANKS To ✨
 
 |          [ImmortalWrt](https://github.com/immortalwrt)           |           [coolsnowwolf](https://github.com/coolsnowwolf)            |              [Lienol](https://github.com/Lienol)               |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
